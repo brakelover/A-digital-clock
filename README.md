@@ -1,2 +1,2 @@
 # A-digital-clock
-It's a fancy clock :))
+It's a cute clock :))
